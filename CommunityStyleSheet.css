@@ -1,0 +1,11 @@
+﻿body {
+    color:darkorange;
+
+}
+h1 {
+    background-color:azure;
+    color:cornflowerblue;
+    text-align:center;
+    border-bottom-style:inset;
+    font-family:cursive;
+}
